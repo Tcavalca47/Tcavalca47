@@ -41,10 +41,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/20/1a/93/201a93a13c12f74855411bab6155108f.gif"  />
-
-###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Tcavalca47/Tcavalca47/refs/heads/main/snake.svg" alt="Snake animation" />
